@@ -1,0 +1,24 @@
+{
+  "name": "ribbon-light",
+  "version": "1.1.0",
+  "description": "Light-theme fork of robonuggets/ribbon. One slim row above the prompt: 5-hour and 7-day usage left and when each resets, prompt cache warm or cold with what the next message costs, and a keep-warm switch.",
+  "author": {
+    "name": "jurgisgavenas",
+    "url": "https://github.com/jurgisgavenas"
+  },
+  "homepage": "https://github.com/jurgisgavenas/ribbon-light",
+  "repository": "https://github.com/jurgisgavenas/ribbon-light",
+  "license": "MIT",
+  "keywords": [
+    "usage",
+    "rate-limit",
+    "prompt-cache",
+    "cost",
+    "status",
+    "mod",
+    "claude-code",
+    "keep-warm",
+    "light-theme"
+  ],
+  "types": "./types/index.d.ts"
+}

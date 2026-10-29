@@ -1,0 +1,17 @@
+{
+  "name": "ribbon-light",
+  "owner": {
+    "name": "jurgisgavenas",
+    "url": "https://github.com/jurgisgavenas"
+  },
+  "plugins": [
+    {
+      "name": "ribbon-light",
+      "source": "./",
+      "description": "Light-theme fork of robonuggets/ribbon: usage left and prompt-cache state in one slim row above the prompt, plus a keep-warm switch."
+    }
+  ],
+  "metadata": {
+    "description": "ribbon-light: a light-theme fork of robonuggets/ribbon with a keep-warm switch."
+  }
+}
